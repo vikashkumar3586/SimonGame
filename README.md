@@ -7,11 +7,16 @@ HTML5 + CSS3
 JavaScript (Vanilla)
 
 Screeshot:-
+
 ![alt text](image.png)
 
 
 🎮 How to Play:-
+
 1.Watch the sequence.
+
 2.Repeat the pattern by clicking the buttons.
+
 3.With each round, the sequence gets longer!
+
 4.Fame Mode: Keep going as long as you can — post your best scores!
